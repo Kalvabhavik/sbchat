@@ -10,14 +10,18 @@ A fast, real-time chat application built with Flutter. This is my first major ch
 * **Modern UI/UX:** Clean, intuitive interface with smooth transitions and animations.
 * **User Authentication:** Secure login and sign-up flow.// still advancements is going on 
 * **Cross-Platform:** Codebase compiles natively for both Android and iOS.
+  
 
 
 ##  Tech Stack
 
-* **Framework:** [Flutter](https://flutter.dev/)
-* **Language:** Dart
-* **Backend:** Cloud Firestore
-
+| Component | Technology |
+| :--- | :--- |
+| **Frontend** | Flutter (Dart) |
+| **Backend** | Firebase (Cloud Firestore) |
+| **Fonts** | Google Fonts (Press Start 2P) |
+| **Animations** | Animated Text Kit |
+| **UI Effects** | Glass Kit, Shader Masks |
 
 ##  Screenshots
 
