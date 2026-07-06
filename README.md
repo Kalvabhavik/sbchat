@@ -2,7 +2,7 @@
 
 A fast, real-time chat application built with Flutter. This is my first major chat project, designed to provide seamless messaging with a clean, modern UI and responsive state management.
 
-[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)]([https://github.com/Kalvabhavik/sbchat/releases/download/app/app-release.apk])
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/Kalvabhavik/sbchat/releases/download/app/app-release.apk)
 
 ##  Features
 
