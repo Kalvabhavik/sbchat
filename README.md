@@ -1,17 +1,32 @@
-# sbchat
+#  NEON CITY CHAT APP
 
-A new Flutter project.
+A fast, real-time chat application built with Flutter. This is my first major chat project, designed to provide seamless messaging with a clean, modern UI and responsive state management.
 
-## Getting Started
+[![Download APK](https://img.shields.io/badge/Download-APK-green.svg)](https://github.com/kalvabhavik/sbchat/releases/latest/download/app-release.apk)
 
-This project is a starting point for a Flutter application.
+##  Features
 
-A few resources to get you started if this is your first Flutter project:
+* **Real-time Messaging:** Send and receive text messages instantly.
+* **Modern UI/UX:** Clean, intuitive interface with smooth transitions and animations.
+* **User Authentication:** Secure login and sign-up flow.// still advancements is going on 
+* **Cross-Platform:** Codebase compiles natively for both Android and iOS.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+##  Tech Stack
+
+* **Framework:** [Flutter](https://flutter.dev/)
+* **Language:** Dart
+* **Backend:** Cloud Firestore
+
+
+##  Screenshots
+
+
+| <img src="https://cdn.corenexis.com/f/1iuiRcpCNP7.png" width="250"/> | <img src="https://cdn.corenexis.com/f/vbRhc9IlAGd.png" width="250"/> |
+
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
