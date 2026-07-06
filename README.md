@@ -22,7 +22,7 @@ A fast, real-time chat application built with Flutter. This is my first major ch
 ##  Screenshots
 
 
-| <img src="https://cdn.corenexis.com/f/1iuiRcpCNP7.png" width="250"/> | <img src="https://cdn.corenexis.com/f/vbRhc9IlAGd.png" width="250"/> |
+ <img src="https://cdn.corenexis.com/f/1iuiRcpCNP7.png" width="250"/>  <img src="https://cdn.corenexis.com/f/vbRhc9IlAGd.png" width="250"/> 
 
 
 ### Installation
