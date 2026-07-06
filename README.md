@@ -29,4 +29,4 @@ A fast, real-time chat application built with Flutter. This is my first major ch
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/](https://github.com/)[Your-GitHub-Username]/[Your-Repo-Name].git
+   git clone https://github.com/Kalvabhavik/sbchat.git
